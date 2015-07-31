@@ -33,7 +33,7 @@ The following permissions are required for this application:
 ```
 Where `com.ibm.mil.milandroidautoxtifyexample` will be your specific app package id.
 
-###Andorid Auto
+###Android Auto
 
 To have Andorid Auto enabled you will need to specify the following components:
 
