@@ -124,6 +124,3 @@ registration to occur like so:
         XtifySDK.start(getApplicationContext(), XTIFY_APP_KEY, PROJECT_NUM);
     }
 ```
-
-
-
